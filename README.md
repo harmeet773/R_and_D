@@ -16,7 +16,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open the local preview URL shown by Jekyll, usually http://localhost:4000/R_and_D/.
+Then open the local preview URL shown by Jekyll, usually http://localhost:4000/R_and_D/. 
 
 ## Deployment
 The GitHub Pages workflow is configured in .github/workflows/pages.yml, so changes pushed to the main branch will be published automatically.
